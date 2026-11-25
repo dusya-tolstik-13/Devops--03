@@ -1,3 +1,5 @@
-#Devops-P03
+# Devops-P03
+
 Практическая работа №3. Git.
-Hello, Local World!
+
+Hello, Local and Remote Worlds!
